@@ -27,3 +27,5 @@ Business
 <a href="https://app.codiga.io/public/user/github/MuskaanPuri03">
    <img src="https://api.codiga.io/public/badge/user/github/MuskaanPuri03?style=light" alt="codiga badge" />
 </a>
+
+![Codiga-muskaan](https://user-images.githubusercontent.com/98894992/156512749-a015ae26-4ea4-4e18-bba6-664eef423ba6.png)
