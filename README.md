@@ -23,3 +23,7 @@ Business
 ![Code Quality Score](https://api.codiga.io/project/31524/score/svg)
 
 ![Code Grade](https://api.codiga.io/project/31524/status/svg)
+
+<a href="https://app.codiga.io/public/user/github/MuskaanPuri03">
+   <img src="https://api.codiga.io/public/badge/user/github/MuskaanPuri03?style=light" alt="codiga badge" />
+</a>
