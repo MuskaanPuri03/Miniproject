@@ -10,4 +10,4 @@ Business
 
 [![Build Linux](https://github.com/MuskaanPuri03/Miniproject/actions/workflows/Build.yml/badge.svg)](https://github.com/MuskaanPuri03/Miniproject/actions/workflows/Build.yml)
 
-
+[![Build Window](https://github.com/MuskaanPuri03/Miniproject/actions/workflows/Window.yml/badge.svg)](https://github.com/MuskaanPuri03/Miniproject/actions/workflows/Window.yml)
