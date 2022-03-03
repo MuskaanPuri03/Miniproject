@@ -15,3 +15,5 @@ Business
 [![Unit Testing](https://github.com/MuskaanPuri03/Miniproject/actions/workflows/Unit.yml/badge.svg)](https://github.com/MuskaanPuri03/Miniproject/actions/workflows/Unit.yml)
 
 [![CPP-Check](https://github.com/MuskaanPuri03/Miniproject/actions/workflows/CPP.yml/badge.svg)](https://github.com/MuskaanPuri03/Miniproject/actions/workflows/CPP.yml)
+
+[![Valgrind](https://github.com/MuskaanPuri03/Miniproject/actions/workflows/Val.yml/badge.svg)](https://github.com/MuskaanPuri03/Miniproject/actions/workflows/Val.yml)
