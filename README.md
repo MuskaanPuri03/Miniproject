@@ -13,3 +13,5 @@ Business
 [![Build Window](https://github.com/MuskaanPuri03/Miniproject/actions/workflows/Window.yml/badge.svg)](https://github.com/MuskaanPuri03/Miniproject/actions/workflows/Window.yml)
 
 [![Unit Testing](https://github.com/MuskaanPuri03/Miniproject/actions/workflows/Unit.yml/badge.svg)](https://github.com/MuskaanPuri03/Miniproject/actions/workflows/Unit.yml)
+
+[![CPP-Check](https://github.com/MuskaanPuri03/Miniproject/actions/workflows/CPP.yml/badge.svg)](https://github.com/MuskaanPuri03/Miniproject/actions/workflows/CPP.yml)
