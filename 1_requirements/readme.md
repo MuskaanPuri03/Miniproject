@@ -48,8 +48,8 @@ The user can use it by entering user name and password.
     
 ## Best Methods To Be Followed
 
-* Used OOPS concept to decrease dependency on main function
-* Used arraylist and arrays to accept the inputs from user and store the values which helped in creating easy design of Banking Management System.
-* Println statements have been placed only wherever necessary to avoid confusions
-* Created Packages so that the fuctions can be used else where ever required without any difficulty
+* Used functions concept to decrease dependency on main function
+* Used structure and arrays to accept the inputs from user and store the values which helped in creating easy design of Banking Management System.
+* Printn statements have been placed only wherever necessary to avoid confusions
+* Created header files so that the fuctions can be used else where ever required without any difficulty
 * Unit testing is done to avoid any computational errors.
